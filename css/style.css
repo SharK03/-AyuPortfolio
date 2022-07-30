@@ -10,11 +10,11 @@
 /* start navigation */
 
 .header_area .main-menu .navbar .navbar-brand {
-  padding: 0 2rem 0 5rem;
+  padding: 0 2rem 0 1rem;
 }
 
 .header_area .main-menu .navbar {
-  padding: 1rem 20rem;
+  padding: 1rem 5rem;
 }
 
 .header_area .main-menu .nav-item .nav-link {
